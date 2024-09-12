@@ -29,7 +29,7 @@
 <br><br>
 
 # **Math Problems**
-### 1. **[Prime Number](./Prime_Number.cpp)** --> **[Solution](./Math%20Problems/Prime_Number.cpp)**
+### 1. **[Prime Number](./Math%20Problems/Prime_Number.cpp)** --> **[Solution](./Math%20Problems/Prime_Number.cpp)**
    - **Concepts**: Math, Prime Check
 ### 2. **[Palindrome Number](https://leetcode.com/problems/palindrome-number/)** --> **[Solution](./Math%20Problems/Palindrome_Number.cpp)**
    - **Concepts**: Math, Palindrome Check
