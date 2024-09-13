@@ -103,7 +103,12 @@ void pattern_2(int n){
 }
 
 void pattern_3(int n){
-    
+    for(int i=0; i<n; i++){
+        for(int j=0; j<=i; j++){
+            cout<<j+1<<" ";
+        }
+        cout<<endl;
+    }
 }
 
 void pattern_4(int n){
@@ -136,9 +141,9 @@ void pattern_10(int n){
 
 int main(){
     int n = 5;
-    // pattern_1(n);
-    // pattern_2(n);
-    // pattern_3(n);
+    pattern_1(n);
+    pattern_2(n);
+    pattern_3(n);
     // pattern_4(n);
     // pattern_5(n);
     // pattern_6(n);
